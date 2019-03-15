@@ -60,6 +60,7 @@
 .navigation-list-item {
   @include fs-4;
   margin: 0;
+  text-align: left;
 
   @include mq(md) {
     @include fs-3;
